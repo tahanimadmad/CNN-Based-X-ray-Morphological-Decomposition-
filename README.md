@@ -4,24 +4,20 @@ This Python source code introduces The CNN-Based X-ray Morphological Decompositi
 ## About the Synthetic Data Generation
 ### Piece-wise smooth component
 
-Under construction.
 
 ### Fine structures component
 
-Under construction.
 
 ### X-ray synthetic image
 
-Under construction.
+
+## About The X-ray Morphological Decomposition (XMD)
 
 
-## About the method
+## About the Convolutional Neural Network 
 
 
-## About the Network 
-
-
-## Start training
+## Start Training !
 
 
 ## Citation
