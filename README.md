@@ -14,7 +14,7 @@ This Python source code introduces The CNN-Based X-ray Morphological Decompositi
 ## About The X-ray Morphological Decomposition (XMD)
 
 
-## About the Convolutional Neural Network 
+## About the Two branches CNN 
 
 
 ## Start Training !
