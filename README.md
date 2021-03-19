@@ -21,3 +21,7 @@ This Python source code introduces The CNN-Based X-ray Morphological Decompositi
 
 
 ## Citation
+
+If you find this project useful, we would be grateful if you cite the CNN-Based XMD paper :) 
+
+
