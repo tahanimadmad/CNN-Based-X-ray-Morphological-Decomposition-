@@ -3,7 +3,7 @@
 """
 Created on Tue Nov  3 18:21:43 2020
 
-@author: DELINTE Nicolas & MADMAD Tahani
+@author: 
 
 - set of functions used to create a dataset for neural network training
 - user has to create a folder then set its path in 'root'
